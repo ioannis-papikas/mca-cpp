@@ -1,0 +1,50 @@
+Samples on a map 512x512 with a small density
+(you can see that the size of the path (in steps, not in real distance) is much more than 240 (the maximum size of the scenarios given))
+
+Cell_output (original)
+
+(20,15)->(481,118)
+time: 0.678554s
+size: 1255
+
+(20,15)->(130,241)
+time: 0.281736s
+size: 470
+
+(20,15)->(197,90)
+time: 0.362825s
+size: 775
+
+
+
+
+Sample_output
+
+(20,15)->(481,118)
+time: 0.101724s
+size: 1433
+
+(20,15)->(130,241)
+time: 0.039121s
+size: 591
+
+(20,15)->(197,90)
+time: 0.082771s
+size: 841
+
+
+
+
+Cell_output (revised)
+
+(20,15)->(481,118)
+time: 0.049907s
+size: 1247
+
+(20,15)->(130,241)
+time: 0.020617s
+size: 472
+
+(20,15)->(197,90)
+time: 0.032180s
+size: 775
